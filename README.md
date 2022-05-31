@@ -1,6 +1,7 @@
 <h1 align="left">Hey!!👋, I'm Pooja bharathi</h1> 
-<h3 align="left">😇 I'm currently pursuing bachelor of engineering in Sri Ramakrishna Institute of Technology, Coimbatore.</h3>
-<img align="right" alt="coding" width="300" height="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="center" alt="coding" width="300" height="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+
+- 😇 **I'm currently pursuing bachelor of engineering in Sri Ramakrishna Institute of Technology, Coimbatore**
 
 - 😉 **I’m a promising and emerging Frontend developer in Spotknack community-2022**
 
