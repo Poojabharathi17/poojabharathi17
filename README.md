@@ -1,7 +1,6 @@
-<h1 align="left">Hey!!👋, I'm Pooja bharathi</h1>
+<h1 align="left">Hey!!👋, I'm Pooja bharathi <img width="300" height="300"src="https://i.pinimg.com/originals/4d/b5/04/4db5040d0b7d5b2f768281da8d704388.gif"></h1> 
 <h3 align="left">😇 I'm currently pursuing bachelor of engineering in Sri Ramakrishna Institute of Technology, Coimbatore.</h3>
-<img align="center" alt="coding" width="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojabharathi17&label=Profile%20views&color=0e75b6&style=flat" alt="poojabharathi17" /> </p>
+<img align="right" alt="coding" width="300" height="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 - 😉 **I’m a promising and emerging Frontend developer in Spotknack community-2022**
 
