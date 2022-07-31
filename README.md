@@ -5,7 +5,7 @@
 
 - 😉 **I’m a promising and emerging Frontend developer in Spotknack community-2022**
 
-- 🤳 **connect me through: @linkedin, @twitter, @gmail**
+- 🤳 **ping me through: @linkedin, @twitter, @gmail**
 
 - 😎 **Fun fact about me: I love to dance and watch movies.**
 
