@@ -1,5 +1,5 @@
 <h1 align="left">Hey!!👋, I'm Pooja bharathi</h1> 
-<img align="center" alt="coding" width="300" height="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="center"  right="50px" alt="coding" width="300" height="300" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
 
 - 😇 **I'm currently pursuing bachelor of engineering in Sri Ramakrishna Institute of Technology, Coimbatore**
 
