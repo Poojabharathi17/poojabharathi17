@@ -3,11 +3,9 @@
 
 - 😇 **I'm currently pursuing bachelor of engineering in Sri Ramakrishna Institute of Technology, Coimbatore**
 
-- 😉 **I’m a promising and emerging Frontend developer in Spotknack community-2022**
+- 😉 **I’m a promising and emerging Software Developer**
 
 - 🤳 **ping me through: @linkedin, @twitter, @gmail**
-
-- 😎 **Fun fact about me: I love to dance and watch movies.**
 
 - 🤩 **Hardwork and determination are key aspects of who I am**
 
